@@ -1,0 +1,27 @@
+color : #999999;  
+font-family : 宋体,sans-serif;  
+font-size : 9pt;  
+font-style:itelic;  
+font-variant:small-caps;  
+letter-spacing : 1pt;  
+line-height : 200%;  
+font-weight:bold;  
+vertical-align:sub;  
+vertical-align:super;  
+text-decoration:line-through;  
+text-decoration: overline;  
+text-decoration:underline;  
+text-decoration:none;  
+text-transform : capitalize;  
+text-transform : uppercase;  
+text-transform : lowercase;  
+text-align:right;  
+text-align:left;  
+text-align:center;  
+text-align:justify;  
+vertical-align属性  
+vertical-align:top;  
+vertical-align:bottom;  
+vertical-align:middle;  
+vertical-align:text-top;  
+vertical-align:text-bottom;  
