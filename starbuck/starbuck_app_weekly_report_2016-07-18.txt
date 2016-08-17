@@ -1,0 +1,24 @@
+------ Total ios store --------
+------ google analystics for android --------
+------ google analystics for android --------
+------ google analystics for android --------
+------ google analystics for android --------
+share_wechat: 164
+share_wechat_moment: 62
+share_wechat - share_wechat_moment: 102
+share_sinaweibo: 5
+check_in: 0
+register_step_two: 9465
+add_card_success: 5709
+sessions: 25015004 
+
+------ google analystics for IOS --------
+Share Share to Sina 150 
+Share Share to Weixin friend 551 
+Share Share to Weixin penyouquan 146 
+
+register successful: MSR specific analytics User register register successful 43835 
+Add card successful: MSR specific analytics Add an additional card to mobile Add card successful 103798 
+sessions: 90865695 
+
+------ Total ios store --------
